@@ -2,7 +2,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15706759&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-Answer: timely delivery of software project management is important aspect of software development lifecycle, as it helps to timely responses to the challenges of the moment, positively useful for the purposes it is being designed for. this timely delivery of the solution is aide by effective communication, open collaboration, reducing barriers in the line of information, have clear model and so many other means to ensure the timely delivery of the such project.
+Answer: timely delivery of software project management is important aspect of software development lifecycle, as it helps to timely responses to the challenges of the moment, positively useful for the purposes it is being designed for. this timely delivery of the solution is aide by effective communication, open collaboration, reducing barriers in the line of information, have clear model and so many other means to ensure the timely delivery of the such project espcailly  to avoid Go over budget 💸,Take too long of the time alloted⏳ and Becoming too chaotic creepy.
+
+
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Answer: effective cost control helps in the management of the production and services of the software development process. cuttting the down of expenses and managing the available resoursse is crucial in the management process. some of the the strategies to be use to reduce cost of the development of the software process are as follows;
